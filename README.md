@@ -11,6 +11,6 @@
 <h3 align="left">📚 Learning:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,linux" />
   </a>
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">💻Computer Science student </h3>
+<h3 align="center">💻Computer Science Student </h3>
 <hr>
 <h3 align="left">⚙️ Languages:</h3>
 <p>

@@ -4,7 +4,7 @@
 <h3 align="left">⚙️ Languages:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
   </a>
 </p>
 

@@ -3,22 +3,25 @@
 - I'm currently studying Computer Science at Universidade Presbiteriana Mackenzie
 - Interested in software development and mobile apps
 - Constantly improving my skills and learning new technologies
-  
+
+---
+
 ## Tech Stack
-**Programming Languages**
+### Programming Languages
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,swift" />
   </a>
 </p>
 
-**Tools and Technologies**
+### Tools and Technologies
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,mysql,supabase,godot" />
   </a>
 </p>
 
+---
 ## GitHub Stats
 <div align="center">
   <img 
@@ -27,6 +30,7 @@
   />
 </div>
 
+---
 ## Connect with Me
 <a href="https://www.linkedin.com/in/ricardo-dias-pimenta-236917300/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

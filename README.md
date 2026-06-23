@@ -17,7 +17,7 @@
 ### Tools and Technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,supabase,godot" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,godot" />
   </a>
 </p>
 
